@@ -1,0 +1,19 @@
+{
+    "name": "tobin/contact",
+    "description": "first package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tobin\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thien",
+            "email": "hieuthien3103@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
